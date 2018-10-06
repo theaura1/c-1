@@ -2,6 +2,7 @@
 1st program
  #include<fstream.h>
 #include<conio.h>
+#include<stdio.h>
 
 void main()
 {
